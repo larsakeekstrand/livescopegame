@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livescopegame/static/css/main.41f38c6f.css",
+    "main.js": "/livescopegame/static/js/main.f69347ff.js",
+    "static/js/453.044c79a9.chunk.js": "/livescopegame/static/js/453.044c79a9.chunk.js",
+    "index.html": "/livescopegame/index.html",
+    "main.41f38c6f.css.map": "/livescopegame/static/css/main.41f38c6f.css.map",
+    "main.f69347ff.js.map": "/livescopegame/static/js/main.f69347ff.js.map",
+    "453.044c79a9.chunk.js.map": "/livescopegame/static/js/453.044c79a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f38c6f.css",
+    "static/js/main.f69347ff.js"
+  ]
+}
